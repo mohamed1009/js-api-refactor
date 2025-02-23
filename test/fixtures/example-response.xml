@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <results>
+         <title>Title 1</title>
+         <author>Roald Dahl</author>
+         <isbn>some-isbn</isbn>
+         <quantity>2</quantity>
+         <price>14.99</price>
+     </results>
+     <results>
+         <title>Title 2</title>
+         <author>Roald Dahl</author>
+         <isbn>some-isbn</isbn>
+         <quantity>10</quantity>
+         <price>24.99</price>
+     </results>
+     <results>
+         <title>Title 3</title>
+         <author>Roald Dahl</author>
+         <isbn>some-isbn</isbn>
+         <quantity>4</quantity>
+         <price>44.99</price>
+     </results>
+ </root>

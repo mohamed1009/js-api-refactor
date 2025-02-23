@@ -1,3 +1,16 @@
+# Getting Started
+
+This assumes you have atleast Node v20.18.3 installed on your machine. It is written in Typescript and tests are written in Jest.
+
+## Running tests
+
+To run tests simply run:
+
+```js
+npm install
+npm run test
+```
+
 # Javascript Code Test
 
 `BookSearchApiClient` is a simple class that makes a call to a http API to retrieve a list of books and return them.
